@@ -1,0 +1,23 @@
+body {
+    font-family: Georgia, serif;
+    background-color: #f5f5f5;
+    color: black;
+    transition: background-color 0.3s, color 0.3s;
+}
+#intro-paragraph {
+    font-style: italic;
+}
+
+
+.main-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    align-items: start;
+}
+
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
