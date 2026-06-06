@@ -1,10 +1,8 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/MaXeAJFw)
 # FINAL COMMIT
 
-# Overview
+# Overview - Weekly Tasks
 This file consists of a detailed guide of my weekly tasks from week 2 - week 13 completed thorughout COMP2110. The following document outlines the Weekly Commits (12%) and Final Commit (8%), and explains how the repository demonstrates ongoing learning and improvement.
-
-# Weekly Tasks
 
 
 # Code Quality Repository Structure
