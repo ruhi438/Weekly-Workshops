@@ -1,0 +1,23 @@
+#actions {
+    display: grid;
+    grid-template-columns: 100px 100px;
+    gap: 10px;
+    width: fit-content;
+    margin: auto;
+    padding: 10px;
+    list-style: none;
+    background-color: cornflowerblue;
+}
+
+#actions li {
+    background-color: crimson;
+    display: inline-block;
+}
+
+#actions button {
+    background-color: darkgreen;
+    color: wheat;
+    width: 100px;
+    height: 100px;
+    font-weight: bold;
+}
