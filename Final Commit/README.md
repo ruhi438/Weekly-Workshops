@@ -26,4 +26,4 @@ style.css
 
 
 # Final Reflection
-Despite, my inability to complete the weekly task at the end of each week, this reflection enabled me to identify any inconsistencies in earlier weeks and improve the overall structure and clarity of my repositorys. I also used this opportunity to ensure that all weekly folders are consistently organised and that documentation in my README files is more clearer and detailed.
+Despite, my inability to complete the weekly task at the end of each week, this reflection enabled me to identify any inconsistencies in earlier weeks and improve the overall structure and clarity of my repositorys. I also used this opportunity to ensure that all weekly folders are consistently organised and that documentation in my README files is clear and well detailed.
